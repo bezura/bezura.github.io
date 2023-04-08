@@ -11,30 +11,38 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/academic/</loc>
-    <lastmod>2023-03-18T00:00:02+00:00</lastmod>
+    <lastmod>2023-04-08T00:00:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/categories/</loc>
-    <lastmod>2023-03-18T00:00:02+00:00</lastmod>
+    <lastmod>2023-04-08T00:00:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/category/demo/</loc>
-    <lastmod>2023-03-18T00:00:02+00:00</lastmod>
+    <lastmod>2023-04-08T00:00:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2023-03-18T00:00:02+00:00</lastmod>
+    <lastmod>2023-04-08T00:00:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2023-03-18T00:00:02+00:00</lastmod>
+    <lastmod>2023-04-08T00:00:02+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/markdown/</loc>
+    <lastmod>2023-04-08T00:00:02+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/my_last_week-_2/</loc>
+    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/git_versions_control/</loc>
     <lastmod>2023-03-18T00:00:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/my_last_week/</loc>
+    <loc>https://example.com/post/my_last_week_1/</loc>
     <lastmod>2023-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

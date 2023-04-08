@@ -5,12 +5,55 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Mar 2023 00:00:02 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 00:00:02 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Язык разметки Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:02 +0000</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;что-такое-markdown&#34;&gt;&lt;strong&gt;Что такое Markdown&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — язык текстовой разметки, созданный писателем и блогером Джоном Грубером. Он предназначен для создания красиво оформленных текстов в обычных файлах формата TXT. Вам не нужны громоздкие процессоры вроде Word или Pages, чтобы создавать документы с жирным или курсивным начертанием, цитатами, ссылками и даже таблицами. Достаточно запомнить простые правила Markdown, и можно писать хоть в «Блокноте». Хотя специализированные Markdown-редакторы, конечно, намного удобнее.&lt;/p&gt;
+&lt;p&gt;Этот язык разметки используется блогерами, писателями, редакторами и журналистами по всему миру. Всем, кто так или иначе связан с упомянутыми профессиями, будет полезно знать о нём.&lt;/p&gt;
+&lt;h1 id=&#34;где-можно-использовать-markdown&#34;&gt;&lt;strong&gt;Где можно использовать Markdown&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;заметки&#34;&gt;Заметки&lt;/h2&gt;
+&lt;p&gt;Редактор &lt;strong&gt;Markdown&lt;/strong&gt; с файловой панелью (например, Atom или iA Writer) — это вполне достойная альтернатива Evernote и OneNote. Мы уже писали, почему Markdown хорош для организации вашей базы заметок.&lt;/p&gt;
+&lt;h2 id=&#34;черновики-для-блога&#34;&gt;Черновики для блога&lt;/h2&gt;
+&lt;p&gt;Этот язык разметки совместим с кучей онлайн-редакторов и блог-платформ. Можно написать черновик для своего блога в Markdown, а потом опубликовать его за секунды — все ссылки, заголовки и форматирование будут выглядеть так, как вы и задумывали. Это вам не из Word копировать.&lt;/p&gt;
+&lt;h2 id=&#34;списки-задач&#34;&gt;Списки задач&lt;/h2&gt;
+&lt;p&gt;В Markdown-редакторах очень просто создавать списки покупок, дел и рабочих заданий. Некоторые гики используют обычный текстовый файл todo.txt как альтернативу модным Wunderlist и Todoist. Как это сделать, можно узнать на сайте Todo.txt.&lt;/p&gt;
+&lt;h2 id=&#34;мессенджеры&#34;&gt;Мессенджеры&lt;/h2&gt;
+&lt;p&gt;Даже некоторые мессенджеры поддерживают Markdown. Например, в Telegram вы с его помощью можете применить жирное или курсивное выделение.&lt;/p&gt;
+&lt;h1 id=&#34;преимущества-markdown&#34;&gt;&lt;strong&gt;Преимущества Markdown&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;универсальность&#34;&gt;Универсальность&lt;/h2&gt;
+&lt;p&gt;Документы, написанные с использованием синтаксиса Markdown, представляют собой обычные текстовые файлы TXT. Их можно открыть на любой платформе и в любом редакторе. Этим они выгодно отличаются от файлов, созданных в текстовых процессорах. Пробовали открыть документ из Apple Pages в Word?&lt;/p&gt;
+&lt;h2 id=&#34;простота&#34;&gt;Простота&lt;/h2&gt;
+&lt;p&gt;Markdown настолько прост, что его за 10 минут смогут освоить даже те, кто до этого не слышал про все эти ваши Latex и HTML. Решётки для подзаголовков, звёздочки для выделения, тире для списков. Проще быть не может.&lt;/p&gt;
+&lt;h2 id=&#34;большой-выбор-инструментов&#34;&gt;Большой выбор инструментов&lt;/h2&gt;
+&lt;p&gt;Редакторов для работы с документами Markdown очень, очень много. Есть и онлайновые, и мобильные, и настольные инструменты. Есть монструозный Atom, красивые и минималистичные ghostwriter и iA Writer, Vim для гиков и Ulysses для профессиональных писателей. Выбирай не хочу.&lt;/p&gt;
+&lt;h2 id=&#34;конвертируемость&#34;&gt;Конвертируемость&lt;/h2&gt;
+&lt;p&gt;Документы Markdown легко экспортировать в любые форматы: PDF, DOC, ODT. При этом их форматирование остаётся неизменным.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Недельный отчёт(УЖЕ ВТОРОЙ!!!).</title>
+      <link>https://example.com/post/my_last_week-_2/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/my_last_week-_2/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;начало&#34;&gt;Начало&lt;/h2&gt;
+&lt;p&gt;Да-да&amp;hellip; Неожиданно даже для меня, что второй такой пост. Но, к сожалению или счастью, это не мои прихоти(лаба, это всё она&amp;hellip;). Что же с неделей, всё замечательно, приближается лето, погодка супер) Желаю всем счастья!!!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Управление версиями. Git.</title>
@@ -192,9 +235,9 @@
     
     <item>
       <title>Недельный отчёт.</title>
-      <link>https://example.com/post/my_last_week/</link>
+      <link>https://example.com/post/my_last_week_1/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/my_last_week/</guid>
+      <guid>https://example.com/post/my_last_week_1/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;начало&#34;&gt;Начало&lt;/h2&gt;
