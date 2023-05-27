@@ -1,116 +1,169 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://example.com/tag/academic/</link>
-      <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <title>Academic | WOW-BLOGGG</title>
+    <link>https://Bezura.github.io/tag/academic/</link>
+      <atom:link href="https://Bezura.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 May 2023 00:01:02 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2023 00:00:02 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://Bezura.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/tag/academic/</link>
+      <link>https://Bezura.github.io/tag/academic/</link>
     </image>
     
     <item>
-      <title>Языки Научного программирования</title>
-      <link>https://example.com/post/scientific_programming_languages/</link>
+      <title>Arduino project development</title>
+      <link>https://Bezura.github.io/post/arduino/</link>
+      <pubDate>Sat, 27 May 2023 00:00:02 +0000</pubDate>
+      <guid>https://Bezura.github.io/post/arduino/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;Arduino is an electronic project development platform that allows you to build devices and automated systems using a microcontroller. If you are interested in electronics and programming, Arduino can be a great choice for your creative and engineering ideas. In this post, we&amp;rsquo;ll look at some key aspects of Arduino project development.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;1-learn-the-basics-of-arduino&#34;&gt;1. Learn the basics of Arduino.&lt;/h2&gt;
+&lt;p&gt;Before you start developing projects on Arduino, it&amp;rsquo;s important to learn the basics of the platform. Become familiar with Arduino hardware components such as boards, microcontrollers, I/O ports, etc. Also learn the Arduino programming language, which is based on C++. Understanding the basic concepts and functions of Arduino will help you create projects more efficiently.&lt;/p&gt;
+&lt;h2 id=&#34;2-choose-the-right-arduino-platform&#34;&gt;2. Choose the right Arduino platform&lt;/h2&gt;
+&lt;p&gt;There are many different Arduino platforms on the market, each with different features and characteristics. Choose the Arduino platform that best suits your needs and project requirements. Different platforms may differ in power, size, analog and digital port availability, and other parameters.&lt;/p&gt;
+&lt;h2 id=&#34;3-select-the-components-you-need&#34;&gt;3. Select the components you need&lt;/h2&gt;
+&lt;p&gt;Depending on your project, you will need various electronic components such as resistors, sensors, displays, motors, etc. Create a list of required components and purchase them. Pay attention to the compatibility of the components with the chosen Arduino platform.&lt;/p&gt;
+&lt;h2 id=&#34;4-start-with-simple-projects&#34;&gt;4. Start with simple projects&lt;/h2&gt;
+&lt;p&gt;If you are new to Arduino development, it is recommended to start with simple projects. For example, LED indicators, buttons, sound signals or motor controls. This will help you learn the basics of Arduino and programming.&lt;/p&gt;
+&lt;h2 id=&#34;5-explore-examples-and-libraries&#34;&gt;5. Explore examples and libraries&lt;/h2&gt;
+&lt;p&gt;Arduino has an extensive library and many example projects that can be used in your development. Explore&lt;/p&gt;
+&lt;p&gt;available examples and libraries to see what features and functions are already implemented and can be used in your projects. This will save you time and improve development efficiency.&lt;/p&gt;
+&lt;h2 id=&#34;6-keep-experimenting-and-learning&#34;&gt;6. Keep experimenting and learning&lt;/h2&gt;
+&lt;p&gt;Arduino offers endless possibilities for creativity and engineering projects. Keep experimenting, create new projects, and deepen your knowledge. Use online resources, forums, and Arduino communities to share experiences and get support.&lt;/p&gt;
+&lt;p&gt;I hope these tips will help you get started developing Arduino projects. Remember that creativity and persistence play an important role in achieving success. Good luck with your Arduino development!&lt;/p&gt;
+&lt;p&gt;*Share your Arduino projects and experiences in the comments below!&lt;/p&gt;
+&lt;p&gt;*Disclaimer: Make sure that you follow the appropriate safety rules and guidelines when working with Arduino electricity and components.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Working with Bibliography</title>
+      <link>https://Bezura.github.io/post/biblic/</link>
+      <pubDate>Sat, 27 May 2023 00:00:02 +0000</pubDate>
+      <guid>https://Bezura.github.io/post/biblic/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Working with Bibliography&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Creating a reliable and well-organized bibliography is an integral part of successful scholarly work. It allows readers to verify your sources and protects you from accusations of plagiarism. In this post, we will explore some important aspects of working with a bibliography and provide you with useful tips.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;1-choose-the-correct-citation-style&#34;&gt;1. Choose the correct citation style&lt;/h2&gt;
+&lt;p&gt;There are numerous citation styles such as APA, MLA, Chicago, and others. It is important to choose the one that aligns with the requirements of your field of study or the academic journal you plan to publish in. Each style has its own specifications regarding citation format and formatting of the reference list.&lt;/p&gt;
+&lt;h2 id=&#34;2-use-bibliography-management-software&#34;&gt;2. Use bibliography management software&lt;/h2&gt;
+&lt;p&gt;Various programs and online services exist for managing bibliographic data, such as Zotero, Mendeley, EndNote, and others. They allow you to organize and store citations and complete bibliographic information, as well as automatically generate reference lists in the required style. Utilizing a bibliography management tool simplifies the citation process and minimizes the risk of errors.&lt;/p&gt;
+&lt;h2 id=&#34;3-maintain-a-bibliographic-record-for-each-source&#34;&gt;3. Maintain a bibliographic record for each source&lt;/h2&gt;
+&lt;p&gt;When working with literature, maintain a meticulous bibliographic record for each source you use. The record should contain all necessary details, such as authors, article or book title, year of publication, publisher, etc. This will help you easily reference sources in your text and create accurate citations.&lt;/p&gt;
+&lt;h2 id=&#34;4-check-for-accuracy-and-completeness&#34;&gt;4. Check for accuracy and completeness&lt;/h2&gt;
+&lt;p&gt;Before presenting your work, it is important to check the accuracy and completeness of your bibliography. Ensure that all sources are properly formatted according to the chosen citation style. Also, verify that you haven&amp;rsquo;t missed any sources used and that all in-text citations have corresponding entries in the reference list.&lt;/p&gt;
+&lt;h2 id=&#34;5-be-consistent&#34;&gt;5. Be consistent&lt;/h2&gt;
+&lt;p&gt;Consistency in formatting your bibliography is crucial. Follow the chosen citation style consistently throughout your work. Check that you use the same formats for different types of sources (books&lt;/p&gt;
+&lt;p&gt;, journal articles, web pages, etc.). This helps create a professional and high-quality impression of your work.&lt;/p&gt;
+&lt;p&gt;I hope these tips assist you in working with your bibliography. A clear and properly formatted bibliography enhances the quality of your scholarly work and makes it more persuasive to readers and reviewers.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Share your thoughts and experiences with bibliography management in the comments below!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Disclaimer: Make sure to check the requirements of your educational institution or academic journal for specific bibliography formatting rules. Citation styles and requirements may vary.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages</title>
+      <link>https://Bezura.github.io/post/scientific_programming_languages/</link>
       <pubDate>Sat, 13 May 2023 00:01:02 +0000</pubDate>
-      <guid>https://example.com/post/scientific_programming_languages/</guid>
+      <guid>https://Bezura.github.io/post/scientific_programming_languages/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;языки-научного-программирования&#34;&gt;Языки Научного программирования&lt;/h1&gt;
-&lt;p&gt;Научное программирование - это область, в которой используются компьютерные языки и технологии для решения научных задач, таких как анализ данных, моделирование физических процессов, машинное обучение и другие. Существует множество языков программирования, которые подходят для научных целей, но некоторые из них более популярны и распространены, чем другие. В этом посте я расскажу о трех таких языках: Python, R и Julia.&lt;/p&gt;
-&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
-&lt;p&gt;Python - это высокоуровневый интерпретируемый язык программирования с динамической типизацией и множеством библиотек для научных вычислений. Python прост в изучении и использовании, имеет чистый и понятный синтаксис, поддерживает многопарадигменное программирование (объектно-ориентированное, функциональное, процедурное и т.д.) и имеет большое сообщество разработчиков и пользователей. Среди наиболее известных библиотек для научного программирования на Python можно назвать NumPy, SciPy, Pandas, Matplotlib, Scikit-learn и TensorFlow.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;scientific-programming-languages&#34;&gt;Scientific programming languages&lt;/h1&gt;
+&lt;p&gt;Scientific programming is a field that uses computer languages and technologies to solve scientific problems such as data analysis, physical process modeling, machine learning, and others. There are many programming languages that are suitable for scientific purposes, but some are more popular and common than others. In this post, I will discuss three such languages: Python, R, and Julia.&lt;/p&gt;
+&lt;h2 id=&#34;python&#34;&gt;Python.&lt;/h2&gt;
+&lt;p&gt;Python is a high-level interpreted programming language with dynamic typing and many libraries for scientific computing. Python is easy to learn and use, has a clean and clear syntax, supports multi-paradigm programming (object-oriented, functional, procedural, etc.) and has a large community of developers and users. Some of the best known libraries for scientific programming in Python include NumPy, SciPy, Pandas, Matplotlib, Scikit-learn and TensorFlow.&lt;/p&gt;
 &lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
-&lt;p&gt;R - это язык программирования и среда для статистического анализа и визуализации данных. R создан специально для работы с данными и имеет множество встроенных функций и пакетов для этого. R также поддерживает различные типы графиков и диаграмм, которые можно легко создавать и настраивать. R является интерпретируемым языком с динамической типизацией и функциональной парадигмой программирования. Среди популярных пакетов для научного программирования на R можно упомянуть Tidyverse, ggplot2, Shiny и R Markdown.&lt;/p&gt;
+&lt;p&gt;R is a programming language and environment for statistical analysis and data visualization. R is designed specifically for working with data and has many built-in functions and packages for it. R also supports various types of charts and graphs that can be easily created and customized. R is an interpreted language with dynamic typing and a functional programming paradigm. Popular packages for scientific R programming include Tidyverse, ggplot2, Shiny and R Markdown.&lt;/p&gt;
 &lt;h2 id=&#34;julia&#34;&gt;Julia&lt;/h2&gt;
-&lt;p&gt;Julia - это относительно новый язык программирования, разработанный с целью сочетать скорость исполнения низкоуровневых языков (например, C или Fortran) с выразительностью и удобством высокоуровневых языков (например, Python или R). Julia компилируется в машинный код перед исполнением и имеет мощную систему множественной диспетчеризации (multiple dispatch), которая позволяет определять поведение функций в зависимости от типов и количества аргументов. Julia также поддерживает метапрограммирование, параллельное и распределенное вычисление, интероперабельность с другими языками и богатый набор библиотек для научного программирования. Среди них можно выделить Plots, DataFrames, Flux и DifferentialEquations.&lt;/p&gt;
-&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
-&lt;p&gt;Языки научного программирования - это инструменты, которые помогают ученым и инженерам решать сложные задачи в различных областях знания. Выбор языка зависит от конкретной задачи.&lt;/p&gt;
+&lt;p&gt;Julia is a relatively new programming language, designed to combine the speed of execution of low-level languages (like C or Fortran) with the expressiveness and convenience of high-level languages (like Python or R). Julia compiles to machine code before execution and has a powerful multiple dispatch system, which allows to define behavior of functions depending on types and number of arguments. Julia also supports metaprogramming, parallel and distributed computing, interoperability with other languages and a rich set of libraries for scientific programming. These include Plots, DataFrames, Flux and DifferentialEquations.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Scientific programming languages are tools that help scientists and engineers solve complex problems in various fields of knowledge. The choice of language depends on the specific task at hand.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Недельный отчёт _3_.</title>
-      <link>https://example.com/post/my_last_week-_3/</link>
+      <title>Weekly Report _3_.</title>
+      <link>https://Bezura.github.io/post/my_last_week-_3/</link>
       <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/my_last_week-_3/</guid>
+      <guid>https://Bezura.github.io/post/my_last_week-_3/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;как-я-провел-прошедшую-неделю&#34;&gt;Как я провел прошедшую неделю&lt;/h1&gt;
-&lt;p&gt;Привет, друзья! Я хочу рассказать вам, как я провел неделю в своем родном городе. Это было замечательно!&lt;/p&gt;
-&lt;p&gt;В пятницу я приехал к своей семье и мы долго общались за ужином. Они были очень рады меня видеть и устроили мне теплый прием.&lt;/p&gt;
-&lt;p&gt;В субботу я встретился со своими друзьями из школы. Мы собрались в нашем любимом кафе и поговорили за чашкой кофе. Мы обменялись своими впечатлениями, смеялись над старыми шутками, вспоминали наши приключения и мечты. Мы также посетили нашу школу и нашего классного руководителя.&lt;/p&gt;
-&lt;p&gt;В воскресенье я провел день с семьей на природе. Мы поехали на пикник на берегу реки. Погода была прекрасная: солнечно, тепло и свежо. Мы наслаждались красотой природы, катались на велосипедах, играли в мяч, ловили рыбу, купались в реке.&lt;/p&gt;
-&lt;p&gt;В понедельник я начал готовиться к отъезду. Я собрал свои вещи, подарил своей семье сувениры из города, где я учусь, поблагодарил их за все, что они для меня делают.&lt;/p&gt;
-&lt;p&gt;Я очень рад, что смог посетить свой родной город и провести время с близкими людьми. Это была одна из самых запоминающихся и приятных недель в моей жизни!&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;how-i-spent-the-past-week&#34;&gt;How I spent the past week&lt;/h1&gt;
+&lt;p&gt;Hi friends, I want to tell you how I spent my week in my hometown. It was wonderful!&lt;/p&gt;
+&lt;p&gt;On Friday I visited my family and we had a long chat over dinner. They were very happy to see me and gave me a warm welcome.&lt;/p&gt;
+&lt;p&gt;On Saturday, I met up with my friends from school. We gathered at our favorite cafe and talked over a cup of coffee. We exchanged our experiences, laughed at old jokes, and reminisced about our adventures and dreams. We also visited our school and our classroom teacher.&lt;/p&gt;
+&lt;p&gt;On Sunday, I spent the day outdoors with my family. We went for a picnic by the river. The weather was beautiful: sunny, warm and refreshing. We enjoyed the beauty of nature, rode our bikes, played ball, fished, and swam in the river.&lt;/p&gt;
+&lt;p&gt;On Monday, I started getting ready to leave. I packed my things, gave my family souvenirs from the city where I study, and thanked them for all they do for me.&lt;/p&gt;
+&lt;p&gt;I am so glad I was able to visit my hometown and spend time with my loved ones. It was one of the most memorable and enjoyable weeks of my life!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Язык разметки Markdown</title>
-      <link>https://example.com/post/markdown/</link>
+      <title>Markdown markup language</title>
+      <link>https://Bezura.github.io/post/markdown/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:02 +0000</pubDate>
-      <guid>https://example.com/post/markdown/</guid>
+      <guid>https://Bezura.github.io/post/markdown/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;что-такое-markdown&#34;&gt;&lt;strong&gt;Что такое Markdown&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — язык текстовой разметки, созданный писателем и блогером Джоном Грубером. Он предназначен для создания красиво оформленных текстов в обычных файлах формата TXT. Вам не нужны громоздкие процессоры вроде Word или Pages, чтобы создавать документы с жирным или курсивным начертанием, цитатами, ссылками и даже таблицами. Достаточно запомнить простые правила Markdown, и можно писать хоть в «Блокноте». Хотя специализированные Markdown-редакторы, конечно, намного удобнее.&lt;/p&gt;
-&lt;p&gt;Этот язык разметки используется блогерами, писателями, редакторами и журналистами по всему миру. Всем, кто так или иначе связан с упомянутыми профессиями, будет полезно знать о нём.&lt;/p&gt;
-&lt;h1 id=&#34;где-можно-использовать-markdown&#34;&gt;&lt;strong&gt;Где можно использовать Markdown&lt;/strong&gt;&lt;/h1&gt;
-&lt;h2 id=&#34;заметки&#34;&gt;Заметки&lt;/h2&gt;
-&lt;p&gt;Редактор &lt;strong&gt;Markdown&lt;/strong&gt; с файловой панелью (например, Atom или iA Writer) — это вполне достойная альтернатива Evernote и OneNote. Мы уже писали, почему Markdown хорош для организации вашей базы заметок.&lt;/p&gt;
-&lt;h2 id=&#34;черновики-для-блога&#34;&gt;Черновики для блога&lt;/h2&gt;
-&lt;p&gt;Этот язык разметки совместим с кучей онлайн-редакторов и блог-платформ. Можно написать черновик для своего блога в Markdown, а потом опубликовать его за секунды — все ссылки, заголовки и форматирование будут выглядеть так, как вы и задумывали. Это вам не из Word копировать.&lt;/p&gt;
-&lt;h2 id=&#34;списки-задач&#34;&gt;Списки задач&lt;/h2&gt;
-&lt;p&gt;В Markdown-редакторах очень просто создавать списки покупок, дел и рабочих заданий. Некоторые гики используют обычный текстовый файл todo.txt как альтернативу модным Wunderlist и Todoist. Как это сделать, можно узнать на сайте Todo.txt.&lt;/p&gt;
-&lt;h2 id=&#34;мессенджеры&#34;&gt;Мессенджеры&lt;/h2&gt;
-&lt;p&gt;Даже некоторые мессенджеры поддерживают Markdown. Например, в Telegram вы с его помощью можете применить жирное или курсивное выделение.&lt;/p&gt;
-&lt;h1 id=&#34;преимущества-markdown&#34;&gt;&lt;strong&gt;Преимущества Markdown&lt;/strong&gt;&lt;/h1&gt;
-&lt;h2 id=&#34;универсальность&#34;&gt;Универсальность&lt;/h2&gt;
-&lt;p&gt;Документы, написанные с использованием синтаксиса Markdown, представляют собой обычные текстовые файлы TXT. Их можно открыть на любой платформе и в любом редакторе. Этим они выгодно отличаются от файлов, созданных в текстовых процессорах. Пробовали открыть документ из Apple Pages в Word?&lt;/p&gt;
-&lt;h2 id=&#34;простота&#34;&gt;Простота&lt;/h2&gt;
-&lt;p&gt;Markdown настолько прост, что его за 10 минут смогут освоить даже те, кто до этого не слышал про все эти ваши Latex и HTML. Решётки для подзаголовков, звёздочки для выделения, тире для списков. Проще быть не может.&lt;/p&gt;
-&lt;h2 id=&#34;большой-выбор-инструментов&#34;&gt;Большой выбор инструментов&lt;/h2&gt;
-&lt;p&gt;Редакторов для работы с документами Markdown очень, очень много. Есть и онлайновые, и мобильные, и настольные инструменты. Есть монструозный Atom, красивые и минималистичные ghostwriter и iA Writer, Vim для гиков и Ulysses для профессиональных писателей. Выбирай не хочу.&lt;/p&gt;
-&lt;h2 id=&#34;конвертируемость&#34;&gt;Конвертируемость&lt;/h2&gt;
-&lt;p&gt;Документы Markdown легко экспортировать в любые форматы: PDF, DOC, ODT. При этом их форматирование остаётся неизменным.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;what-is-markdown&#34;&gt;&lt;strong&gt;What is Markdown&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is a text markup language created by writer and blogger John Gruber. It&amp;rsquo;s designed to create beautifully formatted text in regular TXT files. You don&amp;rsquo;t need a cumbersome word processor like Word or Pages to create documents with bold or italic type, quotations, links, and even tables. All you need to do is memorize the simple rules of Markdown and you can even write in Notepad. A dedicated Markdown editor is a good idea.&lt;/p&gt;
+&lt;p&gt;It is a markup language used by bloggers, writers, editors and journalists all over the world. Everyone involved in those professions will find it useful to know about it.&lt;/p&gt;
+&lt;p&gt;#*Where you can use Markdown&lt;/p&gt;
+&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
+&lt;p&gt;A &lt;strong&gt;Markdown&lt;/strong&gt; editor with a file panel (like Atom or iA Writer) is a pretty decent alternative to Evernote and OneNote. We&amp;rsquo;ve written before about why Markdown is good for organizing your note base.&lt;/p&gt;
+&lt;h2 id=&#34;drafts-for-blogging&#34;&gt;Drafts for Blogging&lt;/h2&gt;
+&lt;p&gt;This markup language is compatible with a bunch of online editors and blogging platforms. You can write a draft for your blog in Markdown and then publish it in seconds - all the links, headings, and formatting will look just as you intended. It&amp;rsquo;s not like copying from Word.&lt;/p&gt;
+&lt;h2 id=&#34;task-lists&#34;&gt;Task Lists&lt;/h2&gt;
+&lt;p&gt;Markdown editors make it very easy to create shopping lists, to-do lists, and work task lists. Some geeks use a regular todo.txt text file as an alternative to fancy Wunderlist and Todoist. You can learn how to do this at Todo.txt.&lt;/p&gt;
+&lt;h2 id=&#34;messengers&#34;&gt;Messengers&lt;/h2&gt;
+&lt;p&gt;Even some messengers support Markdown. In Telegram, for example, you can use Markdown to apply bold or italic highlighting.&lt;/p&gt;
+&lt;h2 id=&#34;the-advantages-of-markdown&#34;&gt;The advantages of Markdown&lt;/h2&gt;
+&lt;h2 id=&#34;versatility&#34;&gt;Versatility&lt;/h2&gt;
+&lt;p&gt;Documents written using the Markdown syntax are plain TXT text files. They can be opened on any platform and in any editor. This makes them different from text processor files. Have you ever tried opening an Apple Pages document in Word?&lt;/p&gt;
+&lt;h2 id=&#34;simplicity&#34;&gt;Simplicity&lt;/h2&gt;
+&lt;p&gt;Markdown is so simple that even people who haven&amp;rsquo;t heard of Latex and HTML can learn it in 10 minutes. Grids for subheadings, asterisks for highlighting, dashes for lists. It couldn&amp;rsquo;t be easier.&lt;/p&gt;
+&lt;h2 id=&#34;a-wide-range-of-tools&#34;&gt;A wide range of tools&lt;/h2&gt;
+&lt;p&gt;There are many, many editors for Markdown documents. There are online, mobile, and desktop tools. There is the monster Atom, the beautiful and minimalistic ghostwriter and iA Writer, Vim for geeks and Ulysses for professional writers. Take your pick.&lt;/p&gt;
+&lt;h2 id=&#34;convertibility&#34;&gt;Convertibility.&lt;/h2&gt;
+&lt;p&gt;Markdown documents can be easily exported in any format such as PDF, DOC and ODT. Their formatting remains unchanged.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Недельный отчёт(УЖЕ ВТОРОЙ!!!).</title>
-      <link>https://example.com/post/my_last_week-_2/</link>
+      <link>https://Bezura.github.io/post/my_last_week-_2/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/my_last_week-_2/</guid>
+      <guid>https://Bezura.github.io/post/my_last_week-_2/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;начало&#34;&gt;Начало&lt;/h2&gt;
-&lt;p&gt;Да-да&amp;hellip; Неожиданно даже для меня, что второй такой пост. Но, к сожалению или счастью, это не мои прихоти(лаба, это всё она&amp;hellip;). Что же с неделей, всё замечательно, приближается лето, погодка супер) Желаю всем счастья!!!&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;beginning-at&#34;&gt;Beginning at&lt;/h2&gt;
+&lt;p&gt;Yes, yes&amp;hellip; Unexpectedly, even for me, that the second such post. But, unfortunately or fortunately, it&amp;rsquo;s not my whims (laba, it&amp;rsquo;s all her&amp;hellip;). What about the week, everything is great, summer is coming, the weather is super) I wish everyone happiness!!!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Управление версиями. Git.</title>
-      <link>https://example.com/post/git_versions_control/</link>
+      <title>Version control. Git.</title>
+      <link>https://Bezura.github.io/post/git_versions_control/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:02 +0000</pubDate>
-      <guid>https://example.com/post/git_versions_control/</guid>
+      <guid>https://Bezura.github.io/post/git_versions_control/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;системы-контроля-версийобщие-понятия&#34;&gt;&lt;strong&gt;Системы контроля версий.Общие понятия&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Системы контроля версий (Version Control System,VCS)&lt;/strong&gt; применяются при работе нескольких человек над одним проектом.Обычно основное дерево про- екта хранится в локальном или удалённом репозитории,к которому настроен доступдля участников проекта.При внесении изменений в содержание проекта система контроля версий позволяет их фиксировать, совмещать изменения, произведённые разными участниками проекта, производить откат к любой более ранней версии проекта,если это требуется.&lt;/p&gt;
-&lt;p&gt;В классических системах контроля версий используется централизованная модель,предполагающая наличие единого репозитория для хранения файлов. Выполнение большинства функций по управлению версиями осуществляется специальнымсервером.Участникпроекта(пользователь)передначаломработы посредствомопределённыхкомандполучаетнужнуюемуверсиюфайлов.После внесения изменений,пользователь размещает новую версию в хранилище.При этом предыдущие версии не удаляются из центрального хранилища и к ним можно вернуться в любой момент.Сервер может сохранять не полную версию изменённых файлов,а производитьтак называемую дельта-компрессию—со- хранятьтолько изменения между последовательными версиями,что позволяет уменьшить объём хранимых данных.&lt;/p&gt;
-&lt;p&gt;Системы контроля версий поддерживаютвозможностьотслеживания и разре- шения конфликтов,которые могут возникнуть при работе нескольких человек над одним файлом.Можно объединить (слить) изменения,сделанные разными участниками (автоматически или вручную),вручную выбрать нужную версию, отменить изменения вовсе или заблокировать файлы для изменения.В зависи- мости от настроек блокировка не позволяетдругим пользователям получить рабочую копию или препятствует изменению рабочей копии файла средствами файловой системы ОС,обеспечиваятаким образом,привилегированныйдоступ только одному пользователю,работающему с файлом.&lt;/p&gt;
-&lt;p&gt;Системы контроля версий также могут обеспечивать дополнительные,более гибкие функциональные возможности. Например, они могут поддерживать работу с несколькими версиями одного файла,сохраняя общую историю изме- нений до точки ветвления версий и собственные истории изменений каждой ветви.Кроме того,обычно доступна информация о том,кто из участников,ко- гда и какие изменения вносил. Обычно такого рода информация хранится в журнале изменений,доступ к которому можно ограничить.&lt;/p&gt;
-&lt;p&gt;В отличие от классических,в распределённых системах контроля версий цен- тральный репозиторий не является обязательным.&lt;/p&gt;
-&lt;p&gt;Среди классических VCS наиболее известны CVS,Subversion,а среди распре- делённых—Git,Bazaar,Mercurial.Принципы их работы схожи,отличаются они в основном синтаксисом используемых в работе команд.&lt;/p&gt;
-&lt;h1 id=&#34;система-контроля-версий-git&#34;&gt;&lt;strong&gt;Система контроля версий Git&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Система контроля версий Git&lt;/strong&gt; представляет собой набор программ команд- ной строки. Доступ к ним можно получить из терминала посредством ввода команды git с различными опциями.&lt;/p&gt;
-&lt;p&gt;Благодаря тому,что Git является распределённой системой контроля версий, резервную копию локального хранилища можно сделать простым копировани- ем или архивацией.&lt;/p&gt;
-&lt;h1 id=&#34;основные-команды-git&#34;&gt;&lt;strong&gt;Основные команды git&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Наиболее часто используемые команды git представлены в таблице нижу&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;version-control-systemsgeneral-concepts&#34;&gt;&lt;strong&gt;Version Control Systems.General Concepts&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Version Control Systems (VCS)&lt;/strong&gt; are used when several people work on a project. Usually the main project tree is stored in a local or remote repository, to which access is set up for project members. When changes are made to the project content, version control systems allow you to commit changes, merge changes made by different project members, and revert to any earlier version of the project if needed.&lt;/p&gt;
+&lt;p&gt;Classic version control systems use a centralized model, which implies a single repository for storing files. Most version control functions are performed by a special server. A project participant (user) obtains the necessary version of the files before starting to work, and after making changes, the user places the new version into the repository, so that previous versions are not deleted from the central repository and can be returned to at any time.&lt;/p&gt;
+&lt;p&gt;Version control systems support the ability to track and resolve conflicts that may arise when several people work on the same file. You can merge changes made by different participants (automatically or manually), manually select the correct version, discard changes at all or lock files for modification. Depending on the settings, locking prevents other users from getting a working copy or prevents modification of the working copy by the OS file system, thereby ensuring that the version of the file is not changed.&lt;/p&gt;
+&lt;p&gt;Version control systems can also provide additional, more flexible functionality. For example, they can support multiple versions of the same file, keeping an overall history of changes up to the branching point and each branch&amp;rsquo;s own change history. In addition, information is usually available about which participant made which changes, when, and what changes. Usually, this kind of information is stored in a change log, access to which can be restricted.&lt;/p&gt;
+&lt;p&gt;In contrast to classical VCSs, in distributed version control systems a central repository is optional.&lt;/p&gt;
+&lt;p&gt;Among the classical VCSs the most famous are CVS, Subversion, and among the distributed ones - Git, Bazaar, Mercurial, etc. The principles of their work are similar, the main difference is the syntax of the commands used.&lt;/p&gt;
+&lt;h1 id=&#34;the-git-version-control-system&#34;&gt;&lt;strong&gt;The Git version control system&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;The Git version control system&lt;/strong&gt; is a collection of command-line programs. These can be accessed from the terminal by entering the git command with various options.&lt;/p&gt;
+&lt;p&gt;Because Git is a distributed version control system, you can back up your local repository by simply copying or archiving it.&lt;/p&gt;
+&lt;h1 id=&#34;basic-git-commands&#34;&gt;&lt;strong&gt;Basic git commands&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;The most commonly used git commands are given in the table below&lt;/p&gt;
 &lt;p&gt;Команда Описание
 
 
@@ -133,26 +186,26 @@
                /post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.003_hu007c3583c09fc875f62b053086d99185_688_0df2a83cd9f1cb3ce58ad42648ff527b.webp 400w,
                /post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.003_hu007c3583c09fc875f62b053086d99185_688_b3dbd59a68ead789d8cba558f9763a77.webp 760w,
                /post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.003_hu007c3583c09fc875f62b053086d99185_688_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.003_hu007c3583c09fc875f62b053086d99185_688_0df2a83cd9f1cb3ce58ad42648ff527b.webp&#34;
+               src=&#34;https://Bezura.github.io/post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.003_hu007c3583c09fc875f62b053086d99185_688_0df2a83cd9f1cb3ce58ad42648ff527b.webp&#34;
                width=&#34;396&#34;
                height=&#34;4&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;git init создание основного дерева репозитория&lt;/p&gt;
-&lt;p&gt;git pull получение обновлений (изменений) текущего дерева из&lt;/p&gt;
-&lt;p&gt;центрального репозитория&lt;/p&gt;
-&lt;p&gt;git push отправка всех произведённых изменений локального&lt;/p&gt;
-&lt;p&gt;дерева в центральный репозиторий&lt;/p&gt;
-&lt;p&gt;git status просмотр списка изменённых файлов в текущей&lt;/p&gt;
-&lt;p&gt;директории&lt;/p&gt;
-&lt;p&gt;git diff просмотр текущих изменения&lt;/p&gt;
-&lt;p&gt;git add . добавить все изменённые и/или созданные файлы и/или&lt;/p&gt;
-&lt;p&gt;каталоги&lt;/p&gt;
-&lt;p&gt;git add добавить конкретные изменённые и/или созданные файлы имена_файлов и/или каталоги&lt;/p&gt;
-&lt;p&gt;git rm удалить файл и/или каталог из индекса репозитория (при имена_файлов этом файл и/или каталог остаётся в локальной директории)&lt;/p&gt;
-&lt;p&gt;git commit сохранить все добавленные изменения и все изменённые -am &amp;lsquo;Описание файлы коммита&amp;rsquo;&lt;/p&gt;
-&lt;p&gt;Команда Описание
+&lt;p&gt;git init creating the main repository tree&lt;/p&gt;
+&lt;p&gt;git pull to retrieve updates (changes) to the current tree from the&lt;/p&gt;
+&lt;p&gt;central repository&lt;/p&gt;
+&lt;p&gt;git push push any changes you have made to the local&lt;/p&gt;
+&lt;p&gt;to the central repository&lt;/p&gt;
+&lt;p&gt;git status to browse the list of changed files in the current&lt;/p&gt;
+&lt;p&gt;directory&lt;/p&gt;
+&lt;p&gt;git diff to review the current changes&lt;/p&gt;
+&lt;p&gt;git add . add all modified and/or created files and/or&lt;/p&gt;
+&lt;p&gt;directories&lt;/p&gt;
+&lt;p&gt;git add specific modified and/or created file names and/or directories&lt;/p&gt;
+&lt;p&gt;git rm to remove the file and/or directory from the repository index (which keeps the file and/or directory in the local directory)&lt;/p&gt;
+&lt;p&gt;git commit to save any changes you&amp;rsquo;ve added and any changes you&amp;rsquo;ve changed -am &amp;lsquo;commit file description&lt;/p&gt;
+&lt;p&gt;Command Description
 
 
 
@@ -174,25 +227,25 @@
                /post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.006_hu007c3583c09fc875f62b053086d99185_714_ed37140d8cba3750b15ff95b50ae1446.webp 400w,
                /post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.006_hu007c3583c09fc875f62b053086d99185_714_102a0a22eb70a423e8669077e77aa66a.webp 760w,
                /post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.006_hu007c3583c09fc875f62b053086d99185_714_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.006_hu007c3583c09fc875f62b053086d99185_714_ed37140d8cba3750b15ff95b50ae1446.webp&#34;
+               src=&#34;https://Bezura.github.io/post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.006_hu007c3583c09fc875f62b053086d99185_714_ed37140d8cba3750b15ff95b50ae1446.webp&#34;
                width=&#34;396&#34;
                height=&#34;4&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;git checkout создание новой ветки,базирующейся на текущей -b имя_ветки&lt;/p&gt;
-&lt;p&gt;git checkout переключение на некоторую ветку (при переключении на имя_ветки ветку,которой ещё нет в локальном репозитории,она будет&lt;/p&gt;
-&lt;p&gt;создана и связана с удалённой)&lt;/p&gt;
-&lt;p&gt;git push отправка изменений конкретной ветки в центральный origin репозиторий&lt;/p&gt;
-&lt;p&gt;имя_ветки&lt;/p&gt;
-&lt;p&gt;git merge слияние ветки с текущим деревом &amp;ndash;no-ff&lt;/p&gt;
-&lt;p&gt;имя_ветки&lt;/p&gt;
-&lt;p&gt;git branch -d удаление локальной уже слитой с основным деревом ветки имя_ветки&lt;/p&gt;
-&lt;p&gt;git branch -D принудительное удаление локальной ветки&lt;/p&gt;
-&lt;p&gt;имя_ветки&lt;/p&gt;
-&lt;p&gt;git push удаление ветки с центрального репозитория&lt;/p&gt;
+&lt;p&gt;git checkout create a new branch based on the current branch -b branch name_name&lt;/p&gt;
+&lt;p&gt;git checkout switch to some branch (switching to a branch name that isn&amp;rsquo;t already in the local repository will&lt;/p&gt;
+&lt;p&gt;branch that isn&amp;rsquo;t yet in the local repository is created and linked to a remote branch)&lt;/p&gt;
+&lt;p&gt;git push to send branch changes to the central origin repository&lt;/p&gt;
+&lt;p&gt;branch name&lt;/p&gt;
+&lt;p&gt;git merge branch into current tree &amp;ndash;no-ff&lt;/p&gt;
+&lt;p&gt;branch name&lt;/p&gt;
+&lt;p&gt;git branch -D remove a local branch that has already been merged into the main branch, branch name&lt;/p&gt;
+&lt;p&gt;git branch -D forcibly deletes a local branch&lt;/p&gt;
+&lt;p&gt;branch name&lt;/p&gt;
+&lt;p&gt;git push branch removal from the central repository&lt;/p&gt;
 &lt;p&gt;origin&lt;/p&gt;
-&lt;p&gt;:имя_ветки
+&lt;p&gt;:name_branches
 
 
 
@@ -214,14 +267,14 @@
                /post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.005_hude4d16939682ab9b348385df5566ab82_642_4a29fc02579d71b47b5ad7d35b33899d.webp 400w,
                /post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.005_hude4d16939682ab9b348385df5566ab82_642_0e7959a606a4daf3f753e4a72f4217bf.webp 760w,
                /post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.005_hude4d16939682ab9b348385df5566ab82_642_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.005_hude4d16939682ab9b348385df5566ab82_642_4a29fc02579d71b47b5ad7d35b33899d.webp&#34;
+               src=&#34;https://Bezura.github.io/post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.005_hude4d16939682ab9b348385df5566ab82_642_4a29fc02579d71b47b5ad7d35b33899d.webp&#34;
                width=&#34;395&#34;
                height=&#34;7&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h1 id=&#34;стандартные-процедуры-работы-при-наличии-центрального-репозитория&#34;&gt;&lt;strong&gt;Стандартные процедуры работы при наличии центрального репозитория&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Работа пользователя со своей веткой начинается с проверки и получения изменений из центрального репозитория (при этом в локальное дерево до начала этой процедуры не должно было вноситься изменений):
+&lt;h1 id=&#34;standard-procedures-for-working-with-a-central-repository&#34;&gt;&lt;strong&gt;Standard procedures for working with a central repository&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;The user begins by checking and getting changes from the central repository (no changes should have been made to the local tree before this procedure began):
 
 
 
@@ -243,7 +296,7 @@
                /post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.004_hu007c3583c09fc875f62b053086d99185_808_bbb65bbe23e1d1f034f16d7b1c0f0bcc.webp 400w,
                /post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.004_hu007c3583c09fc875f62b053086d99185_808_725adf504f8973401ca256b0b151daa5.webp 760w,
                /post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.004_hu007c3583c09fc875f62b053086d99185_808_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.004_hu007c3583c09fc875f62b053086d99185_808_bbb65bbe23e1d1f034f16d7b1c0f0bcc.webp&#34;
+               src=&#34;https://Bezura.github.io/post/git_versions_control/Aspose.Words.d8d007bc-3873-4168-a695-b631a7f23e98.004_hu007c3583c09fc875f62b053086d99185_808_bbb65bbe23e1d1f034f16d7b1c0f0bcc.webp&#34;
                width=&#34;396&#34;
                height=&#34;6&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -251,34 +304,34 @@
 &lt;/p&gt;
 &lt;p&gt;git checkout master&lt;/p&gt;
 &lt;p&gt;git pull&lt;/p&gt;
-&lt;p&gt;git checkout -b имя_ветки&lt;/p&gt;
-&lt;p&gt;Затем можно вносить изменения в локальном дереве и/или ветке.&lt;/p&gt;
-&lt;p&gt;После завершения внесения какого-то изменения в файлы и/или каталоги проекта необходимо разместить их в центральном репозитории. Для этого необходимо проверить,какие файлы изменились к текущему моменту:&lt;/p&gt;
+&lt;p&gt;git checkout -b branch name_name&lt;/p&gt;
+&lt;p&gt;You can then make changes to the local tree and/or branch.&lt;/p&gt;
+&lt;p&gt;When you are done making changes to files and/or directories in your project, you should place them in the central repository. To do this, you need to check which files have changed so far:&lt;/p&gt;
 &lt;p&gt;git status&lt;/p&gt;
-&lt;p&gt;и при необходимости удаляем лишние файлы,которые не хотим отправлять в центральный репозиторий.&lt;/p&gt;
-&lt;p&gt;Затем полезно просмотретьтекст изменений на предмет соответствия прави- лам ведения чистых коммитов:&lt;/p&gt;
+&lt;p&gt;and if necessary, remove unnecessary files you do not want to upload to the central repository.&lt;/p&gt;
+&lt;p&gt;Then, it is useful to review the changes against the clean commit rules:&lt;/p&gt;
 &lt;p&gt;git diff&lt;/p&gt;
-&lt;p&gt;Если какие-либо файлы не должны попасть в коммит,то помечаем только те файлы,изменения которых нужно сохранить.Для этого используем команды добавления и/или удаления с нужными опциями:&lt;/p&gt;
-&lt;p&gt;git add имена_файлов git rm имена_файлов&lt;/p&gt;
-&lt;p&gt;Если нужно сохранить все изменения в текущем каталоге,то используем: git add .&lt;/p&gt;
-&lt;p&gt;Затем сохраняем изменения,поясняя,что было сделано:&lt;/p&gt;
+&lt;p&gt;If there are files that should be kept out of the commit, you can use the add and/or remove commands with the appropriate options to keep the changes:&lt;/p&gt;
+&lt;p&gt;git add file names git rm file names&lt;/p&gt;
+&lt;p&gt;If you want to keep all changes in the current directory, use: git add .&lt;/p&gt;
+&lt;p&gt;Then save the changes, explaining what was done:&lt;/p&gt;
 &lt;p&gt;git commit -am &amp;ldquo;Some commit message&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;и отправляем в центральный репозиторий:&lt;/p&gt;
-&lt;p&gt;git push origin имя_ветки&lt;/p&gt;
-&lt;p&gt;или&lt;/p&gt;
+&lt;p&gt;and push it to the central repository:&lt;/p&gt;
+&lt;p&gt;git push origin branch_name&lt;/p&gt;
+&lt;p&gt;or&lt;/p&gt;
 &lt;p&gt;git push&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Недельный отчёт.</title>
-      <link>https://example.com/post/my_last_week_1/</link>
+      <title>Weekly Report.</title>
+      <link>https://Bezura.github.io/post/my_last_week_1/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/my_last_week_1/</guid>
+      <guid>https://Bezura.github.io/post/my_last_week_1/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;начало&#34;&gt;Начало&lt;/h2&gt;
-&lt;p&gt;Неделя прошла довльно обычно. Я на этой неделе, в приципе как всегда, сделал всё дз вовремя. Более нечего рассказать&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;beginning&#34;&gt;Beginning&lt;/h2&gt;
+&lt;p&gt;The week went pretty normally. I did all my homework on time this week, as usual. Nothing more to say&lt;/p&gt;
 </description>
     </item>
     
