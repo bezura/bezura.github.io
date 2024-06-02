@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STEPIC | WOW-BLOGGG</title>
+    <link>https://bezura.github.io/ru/tag/stepic/</link>
+      <atom:link href="https://bezura.github.io/ru/tag/stepic/index.xml" rel="self" type="application/rss+xml" />
+    <description>STEPIC</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bezura.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>STEPIC</title>
+      <link>https://bezura.github.io/ru/tag/stepic/</link>
+    </image>
+    
+    <item>
+      <title>Курс Stepik &#34;Основы кибербезопасности&#34;</title>
+      <link>https://bezura.github.io/ru/project/kurs/</link>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://bezura.github.io/ru/project/kurs/</guid>
+      <description>&lt;p&gt;На этой странице можно увидеть мое решение курса на Stepik “Основы кибербезопасности”. Запись выполнения доступна на YouTube:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/YgP3AmRBgtk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;часть 1 + часть 2 + часть 3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;По прохождению курса не выдается сертификат, подтверждением прохождения является следующий скриншот в оглавлении.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
