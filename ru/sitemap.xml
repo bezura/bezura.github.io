@@ -2,465 +2,465 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Bezura.github.io/ru/talk/example-talk/</loc>
+    <loc>https://bezura.github.io/ru/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/talk/example-talk/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/talk/example-talk/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/talk/example-talk/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/talk/example-talk/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/event/</loc>
+    <loc>https://bezura.github.io/ru/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/event/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/event/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/event/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/event/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/tag/academic/</loc>
+    <loc>https://bezura.github.io/ru/tag/academic/</loc>
     <lastmod>2023-05-27T00:00:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/tag/academic/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/tag/academic/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/tag/academic/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/tag/academic/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/categories/</loc>
+    <loc>https://bezura.github.io/ru/categories/</loc>
     <lastmod>2023-05-27T00:00:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/categories/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/categories/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/categories/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/category/demo/</loc>
+    <loc>https://bezura.github.io/ru/category/demo/</loc>
     <lastmod>2023-05-27T00:00:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/category/demo/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/category/demo/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/category/demo/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/category/demo/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/post/</loc>
+    <loc>https://bezura.github.io/ru/post/</loc>
     <lastmod>2023-05-27T00:00:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/post/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/post/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/post/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/tags/</loc>
+    <loc>https://bezura.github.io/ru/tags/</loc>
     <lastmod>2023-05-27T00:00:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/tags/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/tags/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/tags/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/post/biblic/</loc>
+    <loc>https://bezura.github.io/ru/post/biblic/</loc>
     <lastmod>2023-05-27T00:00:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/post/biblic/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/post/biblic/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/post/biblic/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/post/biblic/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/post/arduino/</loc>
+    <loc>https://bezura.github.io/ru/post/arduino/</loc>
     <lastmod>2023-05-27T00:00:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/post/arduino/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/post/arduino/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/post/arduino/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/post/arduino/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/post/scientific_programming_languages/</loc>
+    <loc>https://bezura.github.io/ru/post/scientific_programming_languages/</loc>
     <lastmod>2023-05-13T00:01:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/post/scientific_programming_languages/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/post/scientific_programming_languages/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/post/scientific_programming_languages/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/post/scientific_programming_languages/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/post/my_last_week-_3/</loc>
+    <loc>https://bezura.github.io/ru/post/my_last_week-_3/</loc>
     <lastmod>2023-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/post/my_last_week-_3/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/post/my_last_week-_3/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/post/my_last_week-_3/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/post/my_last_week-_3/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/post/markdown/</loc>
+    <loc>https://bezura.github.io/ru/post/markdown/</loc>
     <lastmod>2023-04-08T00:00:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/post/markdown/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/post/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/post/markdown/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/post/markdown/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/post/my_last_week-_2/</loc>
+    <loc>https://bezura.github.io/ru/post/my_last_week-_2/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/post/my_last_week-_2/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/post/my_last_week-_2/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/post/my_last_week-_2/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/post/my_last_week-_2/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/post/git_versions_control/</loc>
+    <loc>https://bezura.github.io/ru/post/git_versions_control/</loc>
     <lastmod>2023-03-18T00:00:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/post/git_versions_control/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/post/git_versions_control/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/post/git_versions_control/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/post/git_versions_control/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/post/my_last_week_1/</loc>
+    <loc>https://bezura.github.io/ru/post/my_last_week_1/</loc>
     <lastmod>2023-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/post/my_last_week_1/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/post/my_last_week_1/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/post/my_last_week_1/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/post/my_last_week_1/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/</loc>
+    <loc>https://bezura.github.io/ru/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/publication-type/3/</loc>
+    <loc>https://bezura.github.io/ru/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/publication-type/3/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/publication-type/3/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/publication-type/3/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/publication-type/3/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/publication/preprint/</loc>
+    <loc>https://bezura.github.io/ru/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/publication/preprint/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/publication/preprint/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/publication/preprint/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/publication/preprint/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/publication_types/</loc>
+    <loc>https://bezura.github.io/ru/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/publication_types/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/publication_types/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/publication_types/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/publication/</loc>
+    <loc>https://bezura.github.io/ru/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/publication/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/publication/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/publication/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/publication/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/tag/source-themes/</loc>
+    <loc>https://bezura.github.io/ru/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/tag/source-themes/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/tag/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/tag/source-themes/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/tag/source-themes/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/slides/</loc>
+    <loc>https://bezura.github.io/ru/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/slides/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/slides/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/slides/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/slides/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/slides/example/</loc>
+    <loc>https://bezura.github.io/ru/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/slides/example/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/slides/example/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/slides/example/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/tag/deep-learning/</loc>
+    <loc>https://bezura.github.io/ru/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/tag/deep-learning/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/tag/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/tag/deep-learning/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/tag/deep-learning/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/tag/demo/</loc>
+    <loc>https://bezura.github.io/ru/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/tag/demo/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/tag/demo/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/tag/demo/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/tag/demo/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/project/example/</loc>
+    <loc>https://bezura.github.io/ru/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/project/example/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/project/example/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/project/example/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/project/example/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/project/external-project/</loc>
+    <loc>https://bezura.github.io/ru/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/project/external-project/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/project/external-project/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/project/external-project/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/project/external-project/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/project/</loc>
+    <loc>https://bezura.github.io/ru/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/project/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/project/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/project/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/project/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/publication-type/2/</loc>
+    <loc>https://bezura.github.io/ru/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/publication-type/2/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/publication-type/2/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/publication-type/2/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/publication-type/2/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/publication/journal-article/</loc>
+    <loc>https://bezura.github.io/ru/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/publication/journal-article/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/publication/journal-article/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/publication/journal-article/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/publication-type/1/</loc>
+    <loc>https://bezura.github.io/ru/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/publication-type/1/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/publication-type/1/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/publication-type/1/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/publication-type/1/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/publication/conference-paper/</loc>
+    <loc>https://bezura.github.io/ru/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/publication/conference-paper/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/publication/conference-paper/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/publication/conference-paper/"
                 />
   </url><url>
-    <loc>https://Bezura.github.io/ru/admin/</loc>
+    <loc>https://bezura.github.io/ru/admin/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://Bezura.github.io/admin/"
+                hreflang="en-us"
+                href="https://bezura.github.io/en/admin/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://Bezura.github.io/ru/admin/"
+                hreflang="ru-ru"
+                href="https://bezura.github.io/ru/admin/"
                 />
   </url>
 </urlset>
